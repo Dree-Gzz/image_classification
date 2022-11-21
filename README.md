@@ -10,7 +10,7 @@ CIT-222-051/2019 Errol Onzere
 CIT-222-065/2019 James Kanyiri
   
 # About the project
-This is an Image Classification program written in Python programming language. The project aims to demonstrate Supervised learning by implementing the DeepFace Framework. DeepFace is a lightweight face recognition and facial attribute analysis library for Python. 
+This is a facial recognition program written in Python programming language. The project aims to demonstrate Supervised learning by implementing the DeepFace Framework. DeepFace is a lightweight face recognition and facial attribute analysis library for Python. 
 The open-sourced DeepFace library includes all leading-edge AI models for face recognition and automatically handles all procedures for facial recognition in the background. If you run face recognition with DeepFace, you get access to a set of features: 
 •	Face Verification: The task of face verification refers to comparing a face with another to verify if it is a match or not. Hence, face verification is commonly used to compare a candidate’s face to another. This can be used to confirm that a physical face matches the one in an ID document.
 •	Face Recognition: The task refers to finding a face in an image database. Performing face recognition requires running face verification many times. 
