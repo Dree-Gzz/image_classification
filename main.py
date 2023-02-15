@@ -47,7 +47,7 @@ def realTimeRecognition(imageDirectoryPath):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    username = input("Enter username for image classification : ") + '\'s'
+    # username = input("Enter username for image classification : ") + '\'s'
     realTimeRecognition("C:/Users/Dan Mwangi/Pictures/Camera Roll")
     # facialAnalysis("C:/Users/jmska/Downloads/image3.jpeg")
     # detectFace("C:/Users/jmska/Downloads/images/group.jpg")
